@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nuestra página oficial",
+    "description": "Sitio web oficial del club — retUNRN OS",
+    "langs": ["TypeScript", "React"],
+    "url": "https://github.com/ret-unrn/website-v2"
+  },
+  {
+    "name": "DOMA",
+    "description": "Genera y ejecuta código python a partir de un diagrama de flujo",
+    "langs": ["TypeScript", "React"],
+    "url": "https://github.com/ret-unrn/DOMA"
+  }
+]
